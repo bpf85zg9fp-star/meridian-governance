@@ -8,7 +8,7 @@ This is the **single source of truth** for all Meridian governance documents, RF
 - `DECISIONS/Decision-Log.md` → All major decisions
 - `GOVERNANCE/` → Core governance documents
 - `RFQ/` → Requests for Quotation
-- `REVIEW_PIPELINE/` → AI review 
+- `REVIEW_PIPELINE/` → AI review processes
 
 **Repository Status:** Operational as of 2026-06-11  
 **GUIDE-GITHUB-MERIDIAN-SETUP-001 v1.3** – Approved by Kevin Slade
