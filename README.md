@@ -1,19 +1,13 @@
-# Meridian Governance Repository
+# DEPRECATED REPOSITORY
 
-**Single Source of Truth** for all Meridian governance documents, RFQs, policies, and decisions.
+**This repository (`bpf85zg9fp-star/meridian-governance`) has been superseded.**
 
-**Status:** Operational as of 2026-06-11  
-**GUIDE-GITHUB-MERIDIAN-SETUP-001 v1.5** — Approved by Kevin Slade
+**Use the authoritative repository instead:** [bpf85zg9fp-star/meridian](https://github.com/bpf85zg9fp-star/meridian)
 
-## Quick Navigation
+All governance documents, RFQs, and artefacts have been migrated and reorganized per RFQ-0100.
 
-- `GUIDE-GITHUB-MERIDIAN-SETUP-001.md` — How to use this repository
-- `CHANGELOG.md` — History of changes
-- `DECISIONS/Decision-Log.md` — All major decisions
-- `GOVERNANCE/` — Core governance documents
-- `RFQ/` — Requests for Quotation
-- `REVIEW_PIPELINE/` — Review processes
+This repo will be archived soon.
 
 ---
 
-**Repository is now live.**
+*Last updated: 2026-06-19*
